@@ -16,4 +16,4 @@ A simple React application that allows you to record your screen and download th
 
 ## Getting Started
 
-1. **Clone the Repository**:
+1. **Clone the Repository**: https://github.com/Maneeshaprabha/screen-recorder-app.git
