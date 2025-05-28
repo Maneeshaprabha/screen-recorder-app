@@ -1,7 +1,8 @@
 # Screen Recording App
 
 A simple React application that allows you to record your screen and download the recording as a video file.
-
+##Live Project 
+- https://screen-recorder-app-rosy.vercel.app/
 ## Features
 - Start and stop screen recording with button clicks.
 - Preview the recorded video in the browser.
